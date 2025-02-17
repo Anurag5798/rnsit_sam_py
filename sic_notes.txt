@@ -1,0 +1,29 @@
+RNSIT PYTHON DATA SCIENCE TRAINING FEB-25
+
+DAY1 Monday 17-02-2025
+
+To copy a repo to our local machine:
+$ git clone repo_URL
+
+To get the updates into our local repo
+$ git pull origin main
+
+main here is the default github branch
+--------------------------------------------
+Configuration git Commands:
+
+$ git config --global user.name "Anurag5798"
+
+$ git config --global user.email "anuragsahu5798@gmail.com"
+
+Credintial manager - Windows Credintials - github
+
+$ git clone https://github.com/Anurag5798/Anurag
+
+$ git clone https://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github.com/Anurag5798/Anurag
+
+To check the current status of my repo:
+$ git status
+
+To mark all the files that need to be updated in the server.
+$ git add 
